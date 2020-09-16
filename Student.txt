@@ -1,0 +1,3 @@
+student name: Adir
+student number: 667039
+student class: HAITFT1B
